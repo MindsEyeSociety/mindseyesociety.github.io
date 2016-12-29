@@ -1,5 +1,4 @@
 ---
-title: Welcome to the MES Github
 ---
 
 This is the home of the MES code repository, where we host all the awesome tools for the Mind's Eye Society.
