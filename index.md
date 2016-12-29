@@ -1,4 +1,7 @@
-# Welcome to the MES Github
+---
+title: Welcome to the MES Github
+---
+
 This is the home of the MES code repository, where we host all the awesome tools for the Mind's Eye Society.
 
 Confused about what all this is for? Check out our [homepage](https://www.mindseyesociety.org) for more information about our organization as a whole!
