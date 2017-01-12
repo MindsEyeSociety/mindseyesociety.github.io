@@ -13,10 +13,10 @@ Technically, we're using a set of microservices hosted in Docker containers. Mos
 ## Repositories
 We have several public repos. A quick overview:
 
-* [User Hub](https://github.com/MindsEyeSociety/mes-hub) - User authentication, org management, and office permissions.
+* [User Hub](https://mindseyesociety.github.io/mes-hub) - User authentication, org management, and office permissions.
 * [Ballot Box](https://github.com/MindsEyeSociety/mes-ballot-box) - Member voting system.
 * [MES WordPress](https://github.com/MindsEyeSociety/MES-WordPress) - WordPress theme that powers our main site.
-* [Audit](https://github.com/MindsEyeSociety/audit) - Auditing system.
+* [Audit](https://mindseyesociety.github.io/audit) - Auditing system.
 
 ### Future Projects
 We have a few future projects lined up. If you're interested in working on one of these, see below.
